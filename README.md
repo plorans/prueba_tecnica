@@ -31,7 +31,7 @@ El proyecto requiere **Node.js**. Puedes descargarlo desde su página oficial:
 
 ### 2. Base de datos
 
-El proyecto utiliza **PostgreSQL** como base de datos. Asegúrate de tener PostgreSQL instalado y corriendo en tu máquina. Si necesitas instrucciones, consulta [la documentación oficial de PostgreSQL](https://www.postgresql.org/docs/).
+El proyecto utiliza **PostgreSQL** como base de datos. Asegúrate de tener PostgreSQL instalado y corriendo en tu máquina. Si necesitas instrucciones, visita [la pagina oficial de PostgreSQL](https://www.postgresql.org/).
 
 ## Configuración del proyecto
 1. Clonar el proyecto.
