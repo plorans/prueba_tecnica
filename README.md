@@ -22,6 +22,12 @@ El objetivo es crear un sistema funcional, seguro y fácil de usar.
 -  PostgreSQL: Para almacenar de manera segura los datos de los usuarios.
 -  bcrypt: Para cifrar las contraseñas de los usuarios y garantizar la seguridad.
 
+### Requerimientos Previos
+
+El proyecto requiere **Node.js**. Puedes descargarlo desde su página oficial:
+
+- [Descargar Node.js](https://nodejs.org/)
+
 ## Configuración del proyecto
 1. Clonar el proyecto.
 ```
