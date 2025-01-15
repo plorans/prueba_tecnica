@@ -24,7 +24,13 @@ El objetivo es crear un sistema funcional, seguro y fácil de usar.
 
 ### Requerimientos Previos
 
+### 1. Node.js
+
 El proyecto requiere **Node.js**. Puedes descargarlo desde su página oficial:
+
+### 2. Base de datos
+
+El proyecto utiliza **PostgreSQL** como base de datos. Asegúrate de tener PostgreSQL instalado y corriendo en tu máquina. Si necesitas instrucciones, consulta [la documentación oficial de PostgreSQL](https://www.postgresql.org/docs/).
 
 - [Descargar Node.js](https://nodejs.org/)
 
