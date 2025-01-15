@@ -58,7 +58,7 @@ npm run dev
 La aplicación estará disponible en http://localhost:3000.
 
 # Configuracion con Docker (Opcional)
-1. Descargar el archivo docker-compose.yml y init.sql del apartado de lanzamientos.
+1. Descargar el archivo docker-compose.yml y init.sql del apartado de Releases.
 
 ```
 docker-compose up --build
