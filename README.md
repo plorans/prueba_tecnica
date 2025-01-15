@@ -4,7 +4,7 @@ Sistema de Registro y Login
 
 ## Descripcion
 
-Este proyecto es un sistemas simple de autenticación que permite a los usuarios registrarse e iniciar sesión utilizando su correo electrónico y contraseña.  
+Este proyecto es un sistema simple de autenticación que permite a los usuarios registrarse e iniciar sesión utilizando su correo electrónico y contraseña.  
 La aplicación demuestra una implementación full-stack utilizando Next.js para el frontend y Express.js con PostgreSQL para el backend. 
 El objetivo es crear un sistema funcional, seguro y fácil de usar.
 
@@ -38,7 +38,7 @@ El proyecto utiliza **PostgreSQL** como base de datos. Asegúrate de tener Postg
 ```
 git clone https://github.com/plorans/prueba_tecnica.git
 ```
-3. Entrar a al folder que contien el backend e instalar dependencias de node.
+3. Entrar a la carpeta que contien el backend e instalar dependencias de node.
 ```
 cd .\prueba_tecnica\
 cd .\Back\
@@ -56,7 +56,7 @@ port: 5432
 ```
 npm start
 ```
-6. Entrar al folder que contiene el frontend e instalar las dependencias de node.
+6. Entrar a la carpeta que contiene el frontend e instalar las dependencias de node.
 ```
 cd .\prueba_tecnica\
 cd .\frontend\
