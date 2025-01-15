@@ -13,7 +13,7 @@ El objetivo es crear un sistema funcional, seguro y fácil de usar.
 - Registro de usuarios con correo electrónico y contraseña.
 - Funcionalidad de inicio de sesión con contraseñas cifradas para mayor seguridad.
 - Validación de datos del lado del servidor.
-- Diseño intuitivo y responsivo.
+- Diseño intuitivo.
 
 ## Tecnologías Utilizadas
 
